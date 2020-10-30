@@ -1,0 +1,51 @@
+# Copyright (C) 2020 IshyoBoy s.r.o.
+# This file is distributed under the same license as the Gutenberg Block Custom Post Types plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gutenberg Block Custom Post Types 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gutenberg-block-custom-post-types\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-07-31T13:37:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: gutenberg-block-custom-post-types\n"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg Block Custom Post Types"
+msgstr ""
+
+#. Description of the plugin
+msgid "Custom Gutenberg Block for Registered Custom Post Types. You can set, which Post Types will be displayed and you can set the number of listed posts as well."
+msgstr ""
+
+#. Author of the plugin
+msgid "IshyoBoy s.r.o."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ishyoboy.com/"
+msgstr ""
+
+#: gutenberg-block-custom-post-types.php:43
+msgid "Gutenberg Block - Custom Post Type Listing"
+msgstr ""
+
+#: gutenberg-block-custom-post-types.php:45
+msgid "Custom Gutenberg Block for listing of Custom Post Types based on the selected names of the custom post types and the number of displayed posts randomly"
+msgstr ""
+
+#: gutenberg-block-custom-post-types.php:58
+msgid "Custom Post Types"
+msgstr ""
+
+#: gutenberg-block-custom-post-types.php:63
+msgid "Select an Item"
+msgstr ""
+
+#: gutenberg-block-custom-post-types.php:67
+msgid "Number of posts to display"
+msgstr ""
